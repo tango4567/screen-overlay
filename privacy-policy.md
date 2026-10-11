@@ -1,7 +1,3 @@
-<!-- Draft: replace placeholders and verify data handling before publication. -->
-
-Legal & privacy
-
 # Privacy Policy
 
 How YT Screen Overlay accesses and processes Google and YouTube information, supports livestream overlays, and handles application account data.
