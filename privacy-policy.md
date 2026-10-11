@@ -106,5 +106,5 @@ We may update this policy as features, data practices, or legal requirements cha
 
 **Application:** YT Screen Overlay  
 **Developer / Operator:** [Tarun M. ](https://github.com/tango4567)   
-**Privacy email:** [Support Email](support@sowmitras.com)       
+**Privacy email:** [Support Email](mailto:support@sowmitras.com)       
 **Website:** [Sowmitras](https://sowmitras.com)       
