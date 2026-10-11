@@ -4,8 +4,8 @@
 **Last updated:** October 11, 2026      
 **Application:** YT Screen Overlay      
 **Developer / operator:** [Tarun M. ](https://github.com/tango4567)      
-**Contact email:** [Contact Email](support@sowmitras.com)     
-**Privacy email:** [Support Email](support@sowmitras.com)      
+**Contact email:** [Contact Email](mailto:support@sowmitras.com)     
+**Privacy email:** [Support Email](mailto:support@sowmitras.com)      
 **Website:** [Sowmitras](https://sowmitras.com)     
 **Privacy Policy:** [Public privacy policy](https://github.com/tango4567/screen-overlay/blob/main/privacy-policy.md)     
 **Terms URL:**     
@@ -93,7 +93,7 @@ The Application is provided without a guarantee of uninterrupted operation or co
 
 Information accessed and processed through the Application is described in the [Privacy Policy](https://github.com/tango4567/screen-overlay/blob/main/privacy-policy.md). Please review it before connecting your Google account.
 
-Revoking Google access, uninstalling the Application, and requesting deletion of stored application records are distinct actions. For privacy and deletion requests, contact **[Public support email]**.
+Revoking Google access, uninstalling the Application, and requesting deletion of stored application records are distinct actions. For privacy and deletion requests, contact **[Public support email](mailto:support@sowmitras.com)**.
 
 ## 12. Security and account restrictions
 
@@ -135,11 +135,12 @@ Users should first contact **[Public support email]** so that support can attemp
      
 **Application:** YT Screen Overlay      
 **Developer / operator:** [Tarun M. ](https://github.com/tango4567)      
-**Contact email:** [Contact Email](support@sowmitras.com)     
-**Privacy email:** [Support Email](support@sowmitras.com)      
+**Contact email:** [Contact Email](mailto:support@sowmitras.com)     
+**Privacy email:** [Support Email](mailto:support@sowmitras.com)      
 **Website:** [Sowmitras](https://sowmitras.com)     
 **Privacy Policy:** [Public privacy policy](https://github.com/tango4567/screen-overlay/blob/main/privacy-policy.md)     
-**Terms URL:**    
+**[Terms URL](https://github.com/tango4567/screen-overlay/edit/main/terms-of-services.md)**    
+     
 
 ---
 
